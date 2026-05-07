@@ -121,10 +121,10 @@ AVERAGE('HR'[JobSatisfaction]) * 0.40
 ## 📊 Dashboard
 
 ### Page 1 — Vue générale RH
-![Page 1](screenshots/dashboard_page1.png)
+![Page 1](screenshots/Dashboard_RH_IBM.png)
 
 ### Page 2 — Facteurs d'attrition
-![Page 2](screenshots/dashboard_page2.png)
+![Page 2](screenshots/Factures_Attrition.png)
 
 ---
 
