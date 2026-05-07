@@ -120,12 +120,11 @@ AVERAGE('HR'[JobSatisfaction]) * 0.40
 
 ## 📊 Dashboard
 
-*Captures à ajouter après publication sur Power BI Service*
+### Page 1 — Vue générale RH
+![Page 1](screenshots/dashboard_page1.png)
 
-| Page | Contenu |
-|---|---|
-| Page 1 | Vue générale RH — KPIs, attrition par département, OverTime |
-| Page 2 | Facteurs d'attrition — Scatter plot, profils à risque, salaires |
+### Page 2 — Facteurs d'attrition
+![Page 2](screenshots/dashboard_page2.png)
 
 ---
 
