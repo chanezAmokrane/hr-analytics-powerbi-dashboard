@@ -130,11 +130,13 @@ AVERAGE('HR'[JobSatisfaction]) * 0.40
 
 ## 💡 Insights
 
-*À compléter après analyse du dashboard*
+1. Le taux d'attrition est de 16,12% — au-dessus du seuil d'alerte de 15%, porté principalement par les départements Sales (21%) et Human Resources (19%).
 
-- Insight 1 :
-- Insight 2 :
-- Insight 3 :
+2. 97 employés actifs sont identifiés comme profils à risque — insatisfaits et en heures supplémentaires. Action RH urgente requise.
+
+3. Les démissionnaires gagnent systématiquement moins que leurs collègues actifs au même JobLevel — l'écart salarial est le principal facteur de départ.
+
+4. Les employés de Sales partent en moyenne après 5-6 ans — l'entreprise perd des profils expérimentés avec un coût de remplacement élevé.
 
 ---
 
